@@ -1,0 +1,7 @@
+{
+  "name": "Real-Time Object Detection",
+  "description": "A web application that uses your device's camera for real-time object detection. This demo utilizes a client-side model (TensorFlow.js COCO-SSD) to identify objects, draw bounding boxes, and display class names without sending video data to a server.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
